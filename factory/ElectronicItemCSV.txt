@@ -1,0 +1,4 @@
+1,Dishwasher,599.99,Philips
+2,Mobile,999.99,Apple
+3,Fridge,649.99,Sony
+4,Tablet,399.99,Nokia
